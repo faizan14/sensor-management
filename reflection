@@ -1,0 +1,9 @@
+What aspect of this exercise did you find most interesting?
+The integration of IOT sensors using WebSocket was pretty interesting. It involved an implementation of a complete knowledge of React and WebSocket
+
+What did you find most cumbersome?
+The overall application was interesting.
+
+Optimizing techniques:
+1. Throttling and Debouncing
+2. Memoization of message component in shouldComponentUpdate
